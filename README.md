@@ -10,4 +10,5 @@ We built a Scam Detector — scans any message and tells you in seconds if it's 
 Built for Programming Fundamentals Final Project using C + HTML, CSS, JavaScript.
 
 Team: Hamda Kashif | Ayesha Qazi | Anoosha Hashmi | Malaika Ali
+
 Instructor: Miss Shiza Hassan
